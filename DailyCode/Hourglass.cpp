@@ -1,9 +1,9 @@
 #include <iostream>
-using namespace std;
+using namespace std;"safira"
 
 int main() {
         int n, i, j;
-        cout<<"Enter a number: "<<endl;
+        cout<<"helo world"<<endl;
         cin>>n;
         
         for(i=0; i<=n; i++){
